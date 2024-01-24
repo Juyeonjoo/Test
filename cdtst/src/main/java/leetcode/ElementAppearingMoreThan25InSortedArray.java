@@ -7,15 +7,6 @@ import java.util.Map;
 public class ElementAppearingMoreThan25InSortedArray {
 
     public int findSpecialInteger(int[] arr) {
-        /*
-        * Example 1:
-        Input: arr = [1,2,2,6,6,6,6,7,10]
-        Output: 6
-        *
-        Example 2:
-        Input: arr = [1,1]
-        Output: 1
-        * */
         int result =0;
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < arr.length; i++) {
