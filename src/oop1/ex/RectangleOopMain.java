@@ -1,6 +1,4 @@
-package ex;
-
-import org.w3c.dom.css.Rect;
+package oop1.ex;
 
 public class RectangleOopMain {
 
