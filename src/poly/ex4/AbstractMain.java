@@ -3,7 +3,7 @@ package poly.ex4;
 public class AbstractMain {
 
     public static void main(String[] args) {
-//  추상클래스> 제약
+    //  추상클래스 > 제약
         Dog dog = new Dog();
         Cat cat = new Cat();
         Caw caw = new Caw();
